@@ -22,7 +22,6 @@ CREATE TABLE visitor (
 -- 테이블 구조 확인
 DESC visitor; 
 
-
 -- DML
 -- 테이블 전체 데이터 조회 (read)
 SELECT * FROM visitor;
